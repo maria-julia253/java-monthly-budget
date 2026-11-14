@@ -5,11 +5,11 @@
   Java program that calculates a user's monthly budget based on their total income and expenses.
 
 > Featured technologies:
-	- Java;
-	- Arrays;
-	- Scanner;
-	- Conditional Structures;
-	- Repetition Structures.
+	1. Java;
+	2. Arrays;
+	3. Scanner;
+	4. Conditional Structures;
+	5. Repetition Structures.
 
 > Features:
 	- Registering the amount of income sources;
