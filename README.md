@@ -19,6 +19,7 @@
 3. Calculating the amount of income sources;
 4. Calculating the amount of expenses;
 5. Identifying the budget situation:
+
 		A) Positive budget;
 		B) Negative Budget;
 		C) Balanced budget.
